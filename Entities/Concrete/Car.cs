@@ -17,5 +17,25 @@ namespace Entities.Concrete
         public string Description { get; set; }
 
 
+        //public Car()
+        //{
+        //    // Boş yapıcı metod
+        //}
+
+        //public Car(int id, int brandId, int colorId, int modelYear, decimal dailyPrice, string description)
+        //{
+        //    Id = id;
+        //    BrandId = brandId;
+        //    ColorId = colorId;
+        //    ModelYear = modelYear;
+        //    DailyPrice = DailyPrice;
+        //    Description = description;
+        //}
+
+        //public bool IsValid()
+        //{
+        //    return Description.Length >= 2 && DailyPrice > 0;
+        //}
+
     }
 }
